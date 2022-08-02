@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Yogurt",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 2,
